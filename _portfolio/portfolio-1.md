@@ -1,6 +1,6 @@
 ---
 title: "Decoding pain states from electrophysiological signals using statistical approaches"
-excerpt: "Decoding pain states from electrophysiological signals using statistical approaches<br/><img src='/images/pain_decog.png'>"
+excerpt: "Decoding pain states from electrophysiological signals using statistical approaches<br/><img src='/images/pain_decoding.png'>"
 collection: portfolio
 ---
 
