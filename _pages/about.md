@@ -18,6 +18,9 @@ Prior to joining University of Washington, I was a research intern at the [Learn
 
 
 ## News
+**September 5, 2024**
+I am thrilled to share one of the projects I had the privilege of working on during my time at BrainChip: aTENNuate. This highly performant model represents a breakthrough in real-time speech enhancement, working directly on raw waveforms with lightning-fast speed.
+You can learn more about aTENNuate and explore the paper here [arXiv](https://www.arxiv.org/pdf/2409.03377)
 
 **June 18, 2024**  
 I'm thrilled to announce that I've accepted an offer to join BrainChip as a Machine Learning Engineering Intern. I'll be starting this exciting journey on June 27, 2024. Looking forward to contributing to innovative projects and advancing my skills in neuromorphic computing and machine learning.
