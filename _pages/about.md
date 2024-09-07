@@ -18,7 +18,9 @@ Prior to joining University of Washington, I was a research intern at the [Learn
 
 
 ## News
+
 **September 5, 2024**
+
 I am thrilled to share one of the projects I had the privilege of working on during my time at BrainChip: aTENNuate. This highly performant model represents a breakthrough in real-time speech enhancement, working directly on raw waveforms with lightning-fast speed.
 You can learn more about aTENNuate and explore the paper here [arXiv](https://www.arxiv.org/pdf/2409.03377)
 
