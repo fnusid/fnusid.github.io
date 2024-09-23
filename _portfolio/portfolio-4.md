@@ -1,6 +1,6 @@
 ---
-title: "Developing foundational model for spatial audio"
-excerpt: "Developing foundational model for spatial audio<br/><img src='/images/spatial_audio.jpg'>"
+title: "The DISPLACE Challenge 2023"
+excerpt: "DIarization of SPeaker and LAnguage in Conversational Environments<br/><img src='/images/spatial_audio.jpg'>"
 collection: portfolio
 ---
 
