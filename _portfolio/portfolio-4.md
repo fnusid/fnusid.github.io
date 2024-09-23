@@ -1,6 +1,6 @@
 ---
 title: "The DISPLACE Challenge 2023"
-excerpt: "DIarization of SPeaker and LAnguage in Conversational Environments<br/><img src='/images/displace2023.jpg'>"
+excerpt: "DIarization of SPeaker and LAnguage in Conversational Environments<br/><img src='/images/displace2023.png'>"
 collection: portfolio
 ---
 
