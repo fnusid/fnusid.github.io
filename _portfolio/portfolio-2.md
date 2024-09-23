@@ -11,3 +11,5 @@ In this study, I investigated sound prediction with a 4-microphone array arrange
 - **Room Acoustics Modeling**: Utilized gpuRIR to accurately model room acoustics, simulating realistic sound environments.
 - **Data Pipeline Creation**: Designed and implemented a comprehensive pipeline, spanning from data creation to masked channel prediction.
 - **Model Performance**: Achieved a validation mean squared error (MSE) of 0.001, demonstrating high accuracy in reconstructing masked microphone signals.
+
+Code can be found [here](https://github.com/fnusid/masked_channel_prediction/tree/main)
