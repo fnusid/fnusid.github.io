@@ -1,13 +1,23 @@
 ---
 title: "aTENNuate : Real-Time Speech Enhancement Deep State Space Model"
-excerpt: "Real-time Speech Enhancement on Raw Signals with Deep State-space Modeling<br/><img src='/images/masked_channel_reconstruction.jpeg'>"
+excerpt: "Real-time Speech Enhancement on Raw Signals with Deep State-space Modeling<br/><img src='/images/aTENNuate.jpeg'>"
 collection: portfolio
 ---
 
-In this study, I investigated sound prediction with a 4-microphone array arranged in a fixed square configuration, capturing audio from a random sound source within a room. The project entailed the development of a self-supervised model leveraging a conformer architecture to predict and reconstruct the masked microphone signals.
+🎧 Introducing aTENNuate: Revolutionizing Speech Enhancement
+Experience speech enhancement like never before — in real-time, on raw waveforms, and at lightning speed ⚡.
 
-## Key Contributions:
+Enhancing speech from noisy environments is a complex challenge, traditionally requiring intricate, handcrafted pipelines and deep domain expertise. But at BrainChip, we're changing the game.
 
-- **Room Acoustics Modeling**: Utilized gpuRIR to accurately model room acoustics, simulating realistic sound environments.
-- **Data Pipeline Creation**: Designed and implemented a comprehensive pipeline, spanning from data creation to masked channel prediction.
-- **Model Performance**: Achieved a validation mean squared error (MSE) of 0.001, demonstrating high accuracy in reconstructing masked microphone signals.
+Meet aTENNuate, our state-of-the-art solution built on the power of our hashtag#TENNs model. Unlike traditional methods, aTENNuate processes raw audio directly, delivering near crystal-clear output even when the input is noisy, downsampled, or quantized.
+
+## Key Advantages:
+
+1. Real-time performance: aTENNuate enhances speech in real time with minimal memory and computational resources.
+2. End-to-end efficiency: No need for complex feature extraction—just feed in raw waveforms, and let the model handle the rest.
+3. Optimized for modern hardware: Our state-space model allows for seamless training on parallel hardware, making it both fast and scalable.
+   
+Whether you're working with degraded audio or need high-quality speech enhancement at scale, aTENNuate offers a breakthrough solution for clarity, speed, and performance.
+
+Paper : https://arxiv.org/abs/2409.03377
+Code : https://github.com/Brainchip-Inc/aTENNuate
