@@ -1,6 +1,6 @@
 ---
 title: "aTENNuate : Real-Time Speech Enhancement Deep State Space Model"
-excerpt: "Real-time Speech Enhancement on Raw Signals with Deep State-space Modeling<br/><img src='/images/aTENNuate.jpeg'>"
+excerpt: "Real-time Speech Enhancement on Raw Signals with Deep State-space Modeling<br/><img src='/images/aTENNuate.jpeg' width='200'>"
 collection: portfolio
 ---
 
