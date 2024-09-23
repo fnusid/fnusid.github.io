@@ -19,6 +19,6 @@ Meet aTENNuate, our state-of-the-art solution built on the power of our hashtag#
    
 Whether you're working with degraded audio or need high-quality speech enhancement at scale, aTENNuate offers a breakthrough solution for clarity, speed, and performance.
 
-[Paper : https://arxiv.org/abs/2409.03377]{https://arxiv.org/abs/2409.03377}
+[Paper : https://arxiv.org/abs/2409.03377](https://arxiv.org/abs/2409.03377)
 
-[Code : https://github.com/Brainchip-Inc/aTENNuate]{https://github.com/Brainchip-Inc/aTENNuate}
+[Code : https://github.com/Brainchip-Inc/aTENNuate](https://github.com/Brainchip-Inc/aTENNuate)
