@@ -1,6 +1,6 @@
 ---
 title: "Emotion detection from EEG using transfer learning"
-excerpt: "Emotion detection from EEG using transfer learning<br/><img src='/images/emotion.png'>"
+excerpt: "Emotion detection from EEG using transfer learning<br/><img src='/images/emotion.png' width='200'>"
 collection: portfolio
 ---
 
