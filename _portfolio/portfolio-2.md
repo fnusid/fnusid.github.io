@@ -1,6 +1,6 @@
 ---
 title: "Conformer-Enhanced Acoustic Source Localization and Masked Channel Prediction in Noisy Environments"
-excerpt: "Conformer-Enhanced Acoustic Source Localization and Masked Channel Prediction in Noisy Environments<br/><img src='/images/masked_channel_reconstruction.jpeg'>"
+excerpt: "Conformer-Enhanced Acoustic Source Localization and Masked Channel Prediction in Noisy Environments<br/><img src='/images/conformer.png'>"
 collection: portfolio
 ---
 
