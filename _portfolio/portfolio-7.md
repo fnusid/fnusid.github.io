@@ -1,6 +1,6 @@
 ---
 title: "Odessa"
-excerpt: "Speaker dependent HMM based ASR<br/><img src='/images/odessa.png' width='200'>"
+excerpt: "Speaker dependent HMM based ASR<br/><img src='/images/odessa.png'>"
 collection: portfolio
 ---
 
