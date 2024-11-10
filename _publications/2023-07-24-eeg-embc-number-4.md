@@ -1,6 +1,7 @@
 ---
 title: "Emotion detection from EEG using transfer learning"
 collection: publications
+category: manuscripts
 permalink: /publication/EEG_EMBC
 excerpt: 'Emotion detection from EEG using ResNet50'
 date: 2023-07-24
