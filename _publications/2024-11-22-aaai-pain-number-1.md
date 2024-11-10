@@ -1,6 +1,7 @@
 ---
 title: "Identifying Pain Biomarkers From Electrophysiological Signals Using a Statistical Approach"
 collection: publications
+category: manuscripts
 permalink: /publication/AAAI_pain
 excerpt: 'Finding pain biomarkers from ECoG/sEEG signals using statstical approaches'
 date: 2024-11-22
