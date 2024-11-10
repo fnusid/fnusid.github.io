@@ -1,6 +1,7 @@
 ---
 title: "Real-time Speech Enhancement on Raw Signals with Deep State-space Modeling"
 collection: publications
+category: manuscripts
 permalink: /publication/aTENNuate
 excerpt: 'Deep state space modelling for speech denoising'
 date: 2024-09-07
