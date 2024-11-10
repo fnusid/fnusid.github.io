@@ -28,7 +28,7 @@ You can learn more about aTENNuate and explore the paper here [arXiv](https://ww
 
 **June 18, 2024**  
 
-I'm thrilled to announce that I've accepted an offer to join BrainChip as a Machine Learning Engineering Intern. I'll be starting this exciting journey on June 27, 2024. Looking forward to contributing to innovative projects and advancing my skills in neuromorphic computing and machine learning.
+I'm thrilled to announce that I've accepted an offer to join BrainChip as a Machine Learning Intern. I'll be starting this exciting journey on June 27, 2024. Looking forward to contributing to innovative projects and advancing my skills in neuromorphic computing and machine learning.
 
 **May 13, 2024**  
 
