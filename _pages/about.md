@@ -21,6 +21,9 @@ Prior to joining University of Washington, I was a research intern at the [Learn
 
 ## News
 
+**November 23, 2024**
+I am pleased to share that I have submitted a paper on pain biomarker identification to the AAAI 2025 Workshop on Health Intelligence. This work was an interdisciplinary collaboration between the departments of Electrical and Computer Engineering, the Paul G. Allen School of Computer Science and Engineering, Bioengineering, and Radiology. 
+
 **September 5, 2024**
 
 I am thrilled to share one of the projects I had the privilege of working on during my time at BrainChip: aTENNuate. This highly performant model represents a breakthrough in real-time speech enhancement, working directly on raw waveforms with lightning-fast speed.
