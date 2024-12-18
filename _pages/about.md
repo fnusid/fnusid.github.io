@@ -23,11 +23,7 @@ Prior to joining University of Washington, I was a research intern at the [Learn
 
 **December 17, 2024**
 
-🎉 Excited to share that our paper, "𝗗𝗲𝗰𝗼𝗱𝗶𝗻𝗴 𝗣𝗮𝗶𝗻: 𝗦𝘁𝗮𝘁𝗶𝘀𝘁𝗶𝗰𝗮𝗹 𝗜𝗱𝗲𝗻𝘁𝗶𝗳𝗶𝗰𝗮𝘁𝗶𝗼𝗻 𝗼𝗳 𝗕𝗶𝗼𝗺𝗮𝗿𝗸𝗲𝗿𝘀 𝗳𝗿𝗼𝗺 𝗘𝗹𝗲𝗰𝘁𝗿𝗼𝗽𝗵𝘆𝘀𝗶𝗼𝗹𝗼𝗴𝗶𝗰𝗮𝗹 𝗦𝗶𝗴𝗻𝗮𝗹𝘀," has been accepted as a poster at the 𝗔𝗔𝗔𝗜 𝟮𝟬𝟮𝟱 𝗪𝗼𝗿𝗸𝘀𝗵𝗼𝗽 𝗼𝗻 𝗛𝗲𝗮𝗹𝘁𝗵 𝗜𝗻𝘁𝗲𝗹𝗹𝗶𝗴𝗲𝗻𝗰𝗲!
-
-Immense thanks to my mentors Vishwas Sathish, Samantha Sun, Shweta Bansal, our advisors Jeffrey Herron, Ph.D. and Rajesh P. N. Rao, and my co-authors for their support.
-
-This study introduces a machine-learning approach to classify acute pain using power-in-band (PIB) and signal coherence features from iEEG data. We evaluate traditional ML models and identify key electrode pairings linked to pain states, shedding light on this area of research to guide and inspire future studies.
+🎉 Excited to share that our paper, "𝗗𝗲𝗰𝗼𝗱𝗶𝗻𝗴 𝗣𝗮𝗶𝗻: 𝗦𝘁𝗮𝘁𝗶𝘀𝘁𝗶𝗰𝗮𝗹 𝗜𝗱𝗲𝗻𝘁𝗶𝗳𝗶𝗰𝗮𝘁𝗶𝗼𝗻 𝗼𝗳 𝗕𝗶𝗼𝗺𝗮𝗿𝗸𝗲𝗿𝘀 𝗳𝗿𝗼𝗺 𝗘𝗹𝗲𝗰𝘁𝗿𝗼𝗽𝗵𝘆𝘀𝗶𝗼𝗹𝗼𝗴𝗶𝗰𝗮𝗹 𝗦𝗶𝗴𝗻𝗮𝗹𝘀," has been accepted as a poster at the 𝗔𝗔𝗔𝗜 𝟮𝟬𝟮𝟱 𝗪𝗼𝗿𝗸𝘀𝗵𝗼𝗽 𝗼𝗻 𝗛𝗲𝗮𝗹𝘁𝗵 𝗜𝗻𝘁𝗲𝗹𝗹𝗶𝗴𝗲𝗻𝗰𝗲
 
 **November 23, 2024**
 
