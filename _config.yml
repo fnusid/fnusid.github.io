@@ -24,7 +24,7 @@ author:
   avatar           : "sid.jpeg"
   name             : "FNU Sidharth"
   pronouns         : # example: "she/her"  
-  bio              : "<a href='https://sites.uw.edu/jeffherr/' style='color: darkblue; font-weight: bold;'>Herron Lab</a> and <a href='https://homes.cs.washington.edu/~gshyam/' style='color: darkblue; font-weight: bold;'>Mobile Intelligence Lab</a><br />Speech/audio and neuroscience researcher"
+  bio              : "<a href='https://neural.cs.washington.edu' style='color: darkblue; font-weight: bold;'>Neural Systems Lab</a><br />Speech/audio and neuroscience researcher"
   location         : "CSE 302</a><br /> Paul G. Allen School of CS,</a><br /> University of Washington, Seattle"
   employer         : "University of Washington"
   uri              : # URL
