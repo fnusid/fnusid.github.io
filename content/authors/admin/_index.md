@@ -65,7 +65,9 @@ education:
     summary: |
       GPA: 3.8/4.0
       Research Project: [Decoding Pain: Statistical Identification of Biomarkers from Electrophysiological Signals](https://arxiv.org/abs/2502.10621)
+
       Advisors: [Prof. Jeffrey Herron](https://sites.uw.edu/jeffherr/), [Prof. Rajesh Rao](https://www.rajeshpnrao.com/)
+      
       Courses:
       - Statistical Learning
       - Deep Learning and Computer Vision
