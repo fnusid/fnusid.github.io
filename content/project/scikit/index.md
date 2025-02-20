@@ -1,13 +1,13 @@
 ---
-title: scikit-learn
-date: 2023-10-26
-external_link: https://github.com/scikit-learn/scikit-learn
+title: aTENNuate based masked channel signal reconstruction in simulated environments
+date: 2025-02-02
+external_link: https://github.com/fnusid/DynamicRIR_audio_generation
 tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
+  - Spatial Audio
+  - SSMs
+  - AI
 ---
 
-scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.
+Developed an SSM architecture to predict masked channel audio signal at a desired location in a simulated room given source and microphone configuration. This model learns the spatial audio representation via self-supervised learning technique
 
 <!--more-->
