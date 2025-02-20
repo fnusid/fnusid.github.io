@@ -181,7 +181,7 @@ awards:
 
 ## About Me
 
-I am a second year master's student in the Department of Electrical and Computer Engineering at the University of Washington, Seattle. I reveived my bachelor's in Electronics and Instrumentation Engineering from College of Engineering Trivandrum.
+I am an incoming PhD student at the [Soundability Lab](https://accessibility.eecs.umich.edu/) at University of Michigan CSE dept. advised by [Dr. Dhruv Jain](https://web.eecs.umich.edu/~profdj/). Currently I am a second year master's student in the Department of Electrical and Computer Engineering at the University of Washington, Seattle. I reveived my bachelor's in Electronics and Instrumentation Engineering from College of Engineering Trivandrum.
 
 My research interests broadly lie in speech and language processing, computational neuroscience, and machine learning.
 
