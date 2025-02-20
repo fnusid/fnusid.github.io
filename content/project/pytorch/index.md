@@ -1,13 +1,13 @@
 ---
-title: PyTorch
-date: 2023-10-26
-external_link: https://github.com/pytorch/pytorch
+title: Odessa a speaker dependent ASR using HMM
+date: 2024-05-31
+external_link: https://github.com/fnusid/HMM_ASR
 tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
+  - Speech Processing
+  - ASR
+  - AI
 ---
 
-PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.
+This is a basic HMM-based ASR that uses MFCC and delta features to identify six phrases: "Odessa" (a keyword phrase), "Play music," "Start music," "Turn off the lights," "Turn on the lights," and "What time is it."
 
 <!--more-->

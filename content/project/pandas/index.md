@@ -1,13 +1,13 @@
 ---
-title: Pandas
-date: 2023-10-26
-external_link: https://github.com/pandas-dev/pandas
+title: aTENNuate
+date: 2024-09-05
+external_link: https://arxiv.org/abs/2409.03377
 tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
+  - Speech Processing
+  - Speech Denoising
+  - SSM
 ---
 
-Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.
+Developed a Deep SSM for real-time audio denoising for edge AI applications.
 
 <!--more-->
