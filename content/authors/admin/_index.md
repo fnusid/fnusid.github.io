@@ -86,7 +86,7 @@ work:
   - position: AIS Intern
     company_name: Skyworks Solutions.
     company_url: https://www.skyworksinc.com/
-    company_logo: '/workspaces/fnusid.github.io/content/authors/admin/skyworks.jpg'
+    company_logo: /workspaces/fnusid.github.io/content/authors/admin/skyworks.jpg
     date_start: '2025-05-27'
     date_end: '2025-08-14'
     summary: |2-
@@ -94,7 +94,7 @@ work:
   - position: Machine Learning Researcher Intern
     company_name: BrainChip, Inc.
     company_url: https://brainchip.com/
-    company_logo: '/workspaces/fnusid.github.io/content/authors/admin/brainchip.jpeg'
+    company_logo: /workspaces/fnusid.github.io/content/authors/admin/brainchip.jpeg
     date_start: '2024-06-27'
     date_end: '2025-03-31'
     summary: |2-
