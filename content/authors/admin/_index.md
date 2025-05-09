@@ -83,12 +83,20 @@ education:
       Thesis: [Emotion Detection from EEG using transfer learning](https://arxiv.org/abs/2306.05680)
       Advisor: [Prof. Jerrin Thomas Panachakel](https://sites.google.com/view/jerrinpanachakel/home)
 work:
+  - position: AIS Intern
+    company_name: Skyworks Solutions.
+    company_url: https://www.skyworksinc.com/
+    company_logo: /workspaces/fnusid.github.io/content/authors/admin/skyworks.jpg
+    date_start: 2025-05-27
+    date_end: '2025-08-14'
+    summary: |2-
+      At Skyworks, I will be researching on speech enhancement for edge devices.
   - position: Machine Learning Researcher Intern
     company_name: BrainChip, Inc.
     company_url: https://brainchip.com/
-    company_logo: ''
+    company_logo: /workspaces/fnusid.github.io/content/authors/admin/brainchip.jpeg
     date_start: 2024-06-27
-    date_end: ''
+    date_end: '2025-03-31'
     summary: |2-
       Responsibilities include:
       - Developed TENNs, a state-space model optimized for the Akida SNN chip, enabling efficient multimodal processing.
@@ -187,6 +195,6 @@ My research interests broadly lie in speech and language processing, computation
 
 In University of Washington, I am fortunate to be advised by [Dr. Jeffrey Herron](https://sites.uw.edu/jeffherr/) and [Dr. Rajesh Rao](https://www.cs.washington.edu/people/faculty/rao) in [Neural Systems lab](https://neural.cs.washington.edu) where I work alongside [Vishwas Sathish](https://scholar.google.com/citations?user=Ad01nlUAAAAJ&hl=en) and [Samantha Sun](https://samantha-sun.com) on identifying potential biomarker for pain from electrophysiological signals. 
 
-I am also a part of [Mobile Intelligence lab](https://homes.cs.washington.edu/~gshyam/) where I work on developing a volume controlled target speech extraction in noisy environments alongside [Tuochao Chen](https://staff.washington.edu/tuochao/), [Malek Itani](https://malekitani.github.io) and [Dr. Shyam Gollakota](https://homes.cs.washington.edu/~gshyam/). 
+I was also a part of [Mobile Intelligence lab](https://homes.cs.washington.edu/~gshyam/) where I worked on developing a volume controlled target speech extraction in noisy environments alongside [Tuochao Chen](https://staff.washington.edu/tuochao/), [Malek Itani](https://malekitani.github.io) and [Dr. Shyam Gollakota](https://homes.cs.washington.edu/~gshyam/). 
 
 Prior to joining University of Washington, I was a research intern at the [Learning and Extraction of Acoustic Patterns (LEAP) lab](http://leap.ee.iisc.ac.in) where I worked alongside [Dr. Sriram Ganapathy](http://www.leap.ee.iisc.ac.in/sriram/) on the [DISPLACE 2023 Challenge](https://displace2023.github.io).
