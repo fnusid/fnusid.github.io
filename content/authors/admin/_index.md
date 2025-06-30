@@ -189,11 +189,11 @@ awards:
 
 ## About Me
 
-I am an incoming PhD student at the [Soundability Lab](https://accessibility.eecs.umich.edu/) at University of Michigan CSE dept. advised by [Dr. Dhruv Jain](https://web.eecs.umich.edu/~profdj/). Currently I am a second year master's student in the Department of Electrical and Computer Engineering at the University of Washington, Seattle. I reveived my bachelor's in Electronics and Instrumentation Engineering from College of Engineering Trivandrum.
+I am a first year PhD student at the [Soundability Lab](https://accessibility.eecs.umich.edu/) at University of Michigan CSE dept. advised by [Dr. Dhruv Jain](https://web.eecs.umich.edu/~profdj/). Prior to joining UMich, I graduated with an MS in the Department of Electrical and Computer Engineering at the University of Washington, Seattle.
 
 My research interests broadly lie in speech and language processing, computational neuroscience, and machine learning.
 
-In University of Washington, I am fortunate to be advised by [Dr. Jeffrey Herron](https://sites.uw.edu/jeffherr/) and [Dr. Rajesh Rao](https://www.cs.washington.edu/people/faculty/rao) in [Neural Systems lab](https://neural.cs.washington.edu) where I work alongside [Vishwas Sathish](https://scholar.google.com/citations?user=Ad01nlUAAAAJ&hl=en) and [Samantha Sun](https://samantha-sun.com) on identifying potential biomarker for pain from electrophysiological signals. 
+In University of Washington, I was fortunate to be advised by [Dr. Jeffrey Herron](https://sites.uw.edu/jeffherr/) and [Dr. Rajesh Rao](https://www.cs.washington.edu/people/faculty/rao) in [Neural Systems lab](https://neural.cs.washington.edu) where I work alongside [Vishwas Sathish](https://scholar.google.com/citations?user=Ad01nlUAAAAJ&hl=en) and [Samantha Sun](https://samantha-sun.com) on identifying potential biomarker for pain from electrophysiological signals. 
 
 I was also a part of [Mobile Intelligence lab](https://homes.cs.washington.edu/~gshyam/) where I worked on developing a volume controlled target speech extraction in noisy environments alongside [Tuochao Chen](https://staff.washington.edu/tuochao/), [Malek Itani](https://malekitani.github.io) and [Dr. Shyam Gollakota](https://homes.cs.washington.edu/~gshyam/). 
 
