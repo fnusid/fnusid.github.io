@@ -83,14 +83,14 @@ education:
       Thesis: [Emotion Detection from EEG using transfer learning](https://arxiv.org/abs/2306.05680)
       Advisor: [Prof. Jerrin Thomas Panachakel](https://sites.google.com/view/jerrinpanachakel/home)
 work:
-  - position: AIS Intern
+  - position: Research Intern
     company_name: Skyworks Solutions.
     company_url: https://www.skyworksinc.com/
     company_logo: ''
     date_start: '2025-05-27'
     date_end: '2025-08-14'
     summary: |2-
-      At Skyworks, I will be researching on speech enhancement for edge devices.
+      At Skyworks, I developed advanced speech de-reverberation and denoising techniques using a dual-microphone setup combining external and in-ear microphones. I designed and implemented a tailored data pipeline incorporating spatial Room Impulse Response (RIR) simulations using both image source and hybrid acoustic models. Built a custom speech enhancement model inspired by neural beamforming, effectively leveraging spatial cues from the in-ear microphone to enhance speech captured by the external microphone in reverberant and noisy environments.
   - position: Machine Learning Researcher Intern
     company_name: BrainChip, Inc.
     company_url: https://brainchip.com/
