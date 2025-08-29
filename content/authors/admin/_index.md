@@ -20,18 +20,18 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Speech/Audio AI Researcher
+role: Speech and Audio AI + HCI Researcher
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Neural Systems Lab, Univ. of Washington, Seattle
-    url: https://neural.cs.washington.edu/
+  - name: Soundability Lab, Computer Science and Engineering, University of Michigan, Ann Arbor
+    url: https://soundability.eecs.umich.edu/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:sid17@uw.edu'
+    url: 'mailto:sidcs@umich.edu'
     label: E-mail Me
   - icon: brands/github
     url: https://github.com/fnusid
@@ -46,15 +46,14 @@ interests:
   - Artificial Intelligence
   - Speech and Audio Processing
   - HCI
-  - Computational Neuroscience
 
 education:
   - area: PhD, Computer Science
     institution: University of Michigan, Ann Arbor
-    date_start: 2025-08-01
-    date_end: 2030-08-01
+    date_start: 2025-08-25
+    date_end: 2039-05-06
     summary: |
-      Incoming PhD student at [Soundability Lab](https://accessibility.eecs.umich.edu/) Supervised by [Prof Dhruv Jain](https://web.eecs.umich.edu/~profdj/).
+      PhD student at [Soundability Lab](https://accessibility.eecs.umich.edu/) advised by [Prof Dhruv Jain](https://web.eecs.umich.edu/~profdj/).
     # button:
     #   text: 'Read Thesis'
     #   url: 'https://example.com'
@@ -63,7 +62,7 @@ education:
     date_start: 2023-09-27
     date_end: 2025-06-08
     summary: |
-      GPA: 3.8/4.0
+      GPA: 3.83/4.0
       Research Project: [Decoding Pain: Statistical Identification of Biomarkers from Electrophysiological Signals](https://arxiv.org/abs/2502.10621)
 
       Advisors: [Prof. Jeffrey Herron](https://sites.uw.edu/jeffherr/), [Prof. Rajesh Rao](https://www.rajeshpnrao.com/)
@@ -90,8 +89,14 @@ work:
     date_start: '2025-05-27'
     date_end: '2025-08-14'
     summary: |2-
-      At Skyworks, I developed advanced speech de-reverberation and denoising techniques using a dual-microphone setup combining external and in-ear microphones. I designed and implemented a tailored data pipeline incorporating spatial Room Impulse Response (RIR) simulations using both image source and hybrid acoustic models. Built a custom speech enhancement model inspired by neural beamforming, effectively leveraging spatial cues from the in-ear microphone to enhance speech captured by the external microphone in reverberant and noisy environments.
-  - position: Machine Learning Researcher Intern
+      Responsibilities include:
+        - Pioneered a dual-microphone enhancement framework integrating internal and external ear microphone signals to improve intelligibility and mitigate speech drop in low-SNR conditions.
+        - Designed a low-parameter, streamable U-Net-based architecture with a cross-attention mechanism to fuse two-channel feature representations for real-time deployment.
+        - Collected and curated a real-world evaluation dataset using a dummy-head HAT recording system for robust, ecologically valid testing.
+        - Introduced SpeechDROPBERT, a novel SpeechBERT-based evaluation metric for quantifying speech-drop effects.
+        - Achieved DNSMOS OVRL 2.40 on the curated test set vs. 2.25 in a beamformer + speech enhancement baseline, and SpeechDROPBERT 0.88 vs. 0.60 baseline, demonstrating substantial perceptual and robustness gains
+
+  - position: Research Intern
     company_name: BrainChip, Inc.
     company_url: https://brainchip.com/
     company_logo: ''
@@ -104,7 +109,7 @@ work:
       - Optimized LLM training and implemented a Triton-based GPU kernel for FFT convolution in signal processing.
       - Developed secure inference & speaker verification, leveraging state-space models for enterprise applications.
       - Developing TENNs TTS model
-  - position: Audio Machine Learning Research Intern
+  - position: Research Intern
     company_name: LEAP Lab, IISc
     company_url: ''
     company_logo: ''
@@ -189,9 +194,9 @@ awards:
 
 ## About Me
 
-I am a first year PhD student at the [Soundability Lab](https://accessibility.eecs.umich.edu/) at University of Michigan CSE dept. advised by [Dr. Dhruv Jain](https://web.eecs.umich.edu/~profdj/). Prior to joining UMich, I graduated with an MS in the Department of Electrical and Computer Engineering at the University of Washington, Seattle.
+I am a first year PhD student at the [Soundability Lab](https://accessibility.eecs.umich.edu/) at University of Michigan CSE dept. advised by [Dr. Dhruv Jain](https://web.eecs.umich.edu/~profdj/), where I focus on developing deep learning algorithms for hearables. Prior to joining UMich, I graduated with an MS in the Department of Electrical and Computer Engineering at the University of Washington, Seattle.
 
-My research interests broadly lie in speech and language processing, computational neuroscience, and machine learning.
+My research interests broadly lie in speech, audio and language processing and deep learning.
 
 In University of Washington, I was fortunate to be advised by [Dr. Jeffrey Herron](https://sites.uw.edu/jeffherr/) and [Dr. Rajesh Rao](https://www.cs.washington.edu/people/faculty/rao) in [Neural Systems lab](https://neural.cs.washington.edu) where I work alongside [Vishwas Sathish](https://scholar.google.com/citations?user=Ad01nlUAAAAJ&hl=en) and [Samantha Sun](https://samantha-sun.com) on identifying potential biomarker for pain from electrophysiological signals. 
 
