@@ -1,6 +1,11 @@
 ---
 # Display name
 title: Sidharth (Sid)
+avatar:
+  image: avatar.jpg      # already present in the same folder
+  shape: circle           # or "square"
+  size: xl                # options: xs, sm, md, lg, xl, or 250px for custom pixel value
+
 
 # Name pronunciation (optional)
 name_pronunciation: ''
@@ -42,10 +47,6 @@ profiles:
   - icon: academicons/orcid
     url: https://orcid.org/0000-0002-0351-9401
 
-avatar:
-  image: avatar.jpg      # already present in the same folder
-  shape: circle           # or "square"
-  size: xl                # options: xs, sm, md, lg, xl, or 250px for custom pixel value
 
 
 interests:
