@@ -35,7 +35,7 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        I mainly work on speech processing and AI in general. My current work includes speech enhancement, ASR and TTS using state-space-models. If you wish to know more, shoot me an email.
+        I mainly work on speech processing and AI in general. My current work includes target speech extraction and enhancement focussed towards HCI applications. I am also interested in audio representation learning. If you want to chat about anything, feel free to shoot me an email at sidcs [at] umich [dot] edu
     design:
       columns: '1'
   - block: collection
