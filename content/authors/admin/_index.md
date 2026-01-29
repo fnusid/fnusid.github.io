@@ -43,7 +43,7 @@ profiles:
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/sidharth172901
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=XjJ2oQcAAAAJ&hl=en&oi=ao
+    url: https://scholar.google.com/citations?user=KX6zragAAAAJ&hl=en&authuser=2
   - icon: academicons/orcid
     url: https://orcid.org/0000-0002-0351-9401
 
