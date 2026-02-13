@@ -201,7 +201,7 @@ awards:
 
 ## About Me
 
-I am a first year PhD student at the [Soundability Lab](https://accessibility.eecs.umich.edu/) at University of Michigan CSE dept. advised by [Dr. Dhruv Jain](https://web.eecs.umich.edu/~profdj/), where I focus on developing deep learning algorithms for hearables. Prior to joining UMich, I graduated with an MS in the Department of Electrical and Computer Engineering at the University of Washington, Seattle where I was advised by [Dr. Jeffrey Herron](https://sites.uw.edu/jeffherr/) and [Dr. Rajesh Rao](https://www.cs.washington.edu/people/faculty/rao) in [Neural Systems lab](https://neural.cs.washington.edu).
+I am a first year PhD student in the [Soundability Lab](https://accessibility.eecs.umich.edu/) at University of Michigan CSE dept. advised by [Dr. Dhruv Jain](https://web.eecs.umich.edu/~profdj/) and I work closely with [Dr. Herman Dong](https://hermandong.com). I develop deep learning algorithms for hearables, focusing on robust speech and audio perception in real-world conditions. Prior to joining UMich, I graduated with an MS in the Department of Electrical and Computer Engineering at the University of Washington, Seattle where I was advised by [Dr. Jeffrey Herron](https://sites.uw.edu/jeffherr/) and [Dr. Rajesh Rao](https://www.cs.washington.edu/people/faculty/rao) in [Neural Systems lab](https://neural.cs.washington.edu).
 
 My current research interests broadly lie in speech and audio AI alogrithms for applications like target speech extraction, and enhancement.
 
