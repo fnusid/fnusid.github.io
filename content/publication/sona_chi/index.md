@@ -1,5 +1,5 @@
 ---
-title: Sona: Real-Time Multi-Target Sound Attenuation for Noise Sensitivity
+title: "Sona: Real-Time Multi-Target Sound Attenuation for Noise Sensitivity"
 authors:
 - Jeremy Zhengqi Huang
 - Emani Hicks 
