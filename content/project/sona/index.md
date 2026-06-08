@@ -1,3 +1,4 @@
+---
 title: Real-Time Multi-Target Sound Attenuation for Noise Sensitivity
 date: 2026-06-08
 external_link: https://dl.acm.org/doi/10.1145/3772363.3799034
