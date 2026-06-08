@@ -1,12 +1,13 @@
-title: aTENNuate based masked channel signal reconstruction in simulated environments
-date: 2025-02-02
-external_link: https://github.com/fnusid/DynamicRIR_audio_generation
+title: Real-Time Multi-Target Sound Attenuation for Noise Sensitivity
+date: 2026-06-08
+external_link: https://dl.acm.org/doi/10.1145/3772363.3799034
 tags:
-  - Spatial Audio
-  - SSMs
+  - Target sound suppression
+  - real-time audio system
   - AI
+  - HCI
 ---
 
-Developed an SSM architecture to predict masked channel audio signal at a desired location in a simulated room given source and microphone configuration. This model learns the spatial audio representation via self-supervised learning technique
+Co-deveoloped a system to suppress multiple target sounds of interest from real world data in a real-time system. 
 
 <!--more-->
