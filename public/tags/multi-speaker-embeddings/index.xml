@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Multi-Speaker Embeddings | Sidharth</title>
+    <link>https://example.com/tags/multi-speaker-embeddings/</link>
+      <atom:link href="https://example.com/tags/multi-speaker-embeddings/index.xml" rel="self" type="application/rss+xml" />
+    <description>Multi-Speaker Embeddings</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 24 Jun 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu_4bc81f2edf496b34.png</url>
+      <title>Multi-Speaker Embeddings</title>
+      <link>https://example.com/tags/multi-speaker-embeddings/</link>
+    </image>
+    
+    <item>
+      <title>Unmixing The Crowd: Learning Persistent Speaker Representations from Mixture-Derived Multi-Speaker Embeddings</title>
+      <link>https://example.com/publication/unmixing_the_crowd/</link>
+      <pubDate>Wed, 24 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/unmixing_the_crowd/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

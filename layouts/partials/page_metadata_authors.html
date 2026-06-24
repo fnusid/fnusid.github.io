@@ -1,0 +1,26 @@
+{{- $taxonomy := "authors" -}}
+{{- $authors := .Params.authors | default (slice) -}}
+{{- if gt (len $authors) 0 -}}
+  {{- $first := true -}}
+  {{- range $index, $author := $authors -}}
+    {{- if not $first }}, {{ end -}}
+    {{- $first = false -}}
+    {{- $authorPage := site.GetPage (printf "authors/%s" (urlize $author)) -}}
+    <span {{ if $authorPage.Params.highlight_name | default false }}class="font-bold"{{ end }}>
+      {{- if $authorPage -}}
+        {{- if $authorPage.RelPermalink -}}
+          <a href="{{ $authorPage.RelPermalink }}">{{ $authorPage.LinkTitle }}</a>
+        {{- else -}}
+          {{ $authorPage.LinkTitle }}
+        {{- end -}}
+      {{- else -}}
+        {{ $author }}
+      {{- end -}}
+    </span>
+    {{- if isset $.Params "author_notes" -}}
+      {{- with (index $.Params.author_notes $index) -}}
+        <i class="author-notes fas fa-info-circle" data-toggle="tooltip" title="{{ . }}"></i>
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}

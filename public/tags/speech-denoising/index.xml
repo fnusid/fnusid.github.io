@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Speech Denoising | Sidharth</title>
+    <link>https://example.com/tags/speech-denoising/</link>
+      <atom:link href="https://example.com/tags/speech-denoising/index.xml" rel="self" type="application/rss+xml" />
+    <description>Speech Denoising</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 25 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu_4bc81f2edf496b34.png</url>
+      <title>Speech Denoising</title>
+      <link>https://example.com/tags/speech-denoising/</link>
+    </image>
+    
+    <item>
+      <title>🎧 aTENNuate submitted to Interspeech 2025</title>
+      <link>https://example.com/post/data-visualization/</link>
+      <pubDate>Sat, 25 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/data-visualization/</guid>
+      <description>&lt;p&gt;I am thrilled to share one of the projects I had the privilege of working on during my time at BrainChip - aTENNuate. This highly performant model represents a breakthrough in real-time speech enhancement, working directly on raw waveforms with lightning-fast speed. You can learn more about aTENNuate and explore the paper here 
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>aTENNuate</title>
+      <link>https://example.com/project/pandas/</link>
+      <pubDate>Thu, 05 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/pandas/</guid>
+      <description>&lt;p&gt;Developed a Deep SSM for real-time audio denoising for edge AI applications.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Target Sound Suppression | Sidharth</title>
+    <link>https://example.com/tags/target-sound-suppression/</link>
+      <atom:link href="https://example.com/tags/target-sound-suppression/index.xml" rel="self" type="application/rss+xml" />
+    <description>Target Sound Suppression</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 08 Jun 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu_4bc81f2edf496b34.png</url>
+      <title>Target Sound Suppression</title>
+      <link>https://example.com/tags/target-sound-suppression/</link>
+    </image>
+    
+    <item>
+      <title>Real-Time Multi-Target Sound Attenuation for Noise Sensitivity</title>
+      <link>https://example.com/project/sona/</link>
+      <pubDate>Mon, 08 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/sona/</guid>
+      <description>&lt;p&gt;Co-deveoloped a system to suppress multiple target sounds of interest from real world data in a real-time system.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Sona: Real-Time Multi-Target Sound Attenuation for Noise Sensitivity</title>
+      <link>https://example.com/publication/sona_chi/</link>
+      <pubDate>Mon, 08 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/sona_chi/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

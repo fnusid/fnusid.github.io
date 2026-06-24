@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SSM | Sidharth</title>
+    <link>https://example.com/tags/ssm/</link>
+      <atom:link href="https://example.com/tags/ssm/index.xml" rel="self" type="application/rss+xml" />
+    <description>SSM</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 05 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu_4bc81f2edf496b34.png</url>
+      <title>SSM</title>
+      <link>https://example.com/tags/ssm/</link>
+    </image>
+    
+    <item>
+      <title>aTENNuate</title>
+      <link>https://example.com/project/pandas/</link>
+      <pubDate>Thu, 05 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/pandas/</guid>
+      <description>&lt;p&gt;Developed a Deep SSM for real-time audio denoising for edge AI applications.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

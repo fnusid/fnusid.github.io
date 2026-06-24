@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SSMs | Sidharth</title>
+    <link>https://example.com/tags/ssms/</link>
+      <atom:link href="https://example.com/tags/ssms/index.xml" rel="self" type="application/rss+xml" />
+    <description>SSMs</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 19 May 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu_4bc81f2edf496b34.png</url>
+      <title>SSMs</title>
+      <link>https://example.com/tags/ssms/</link>
+    </image>
+    
+    <item>
+      <title>Elated to share that the paper that I co-authored at BrainChip, aTENNuate, has been accepted at Interspeech 2025</title>
+      <link>https://example.com/post/interspeech-25/</link>
+      <pubDate>Mon, 19 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/interspeech-25/</guid>
+      <description>&lt;p&gt;I am thrilled to share one of the projects I had the privilege of working on during my time at BrainChip - aTENNuate has been accepted at Interspeech 2025. This highly performant model represents a breakthrough in real-time speech enhancement, working directly on raw waveforms with lightning-fast speed. You can learn more about aTENNuate and explore the paper here 
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>aTENNuate based masked channel signal reconstruction in simulated environments</title>
+      <link>https://example.com/project/scikit/</link>
+      <pubDate>Sun, 02 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/scikit/</guid>
+      <description>&lt;p&gt;Developed an SSM architecture to predict masked channel audio signal at a desired location in a simulated room given source and microphone configuration. This model learns the spatial audio representation via self-supervised learning technique&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>🎧 aTENNuate submitted to Interspeech 2025</title>
+      <link>https://example.com/post/data-visualization/</link>
+      <pubDate>Sat, 25 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/data-visualization/</guid>
+      <description>&lt;p&gt;I am thrilled to share one of the projects I had the privilege of working on during my time at BrainChip - aTENNuate. This highly performant model represents a breakthrough in real-time speech enhancement, working directly on raw waveforms with lightning-fast speed. You can learn more about aTENNuate and explore the paper here 
+&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

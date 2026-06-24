@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recent &amp; Upcoming Talks | Sidharth</title>
+    <link>https://example.com/event/</link>
+      <atom:link href="https://example.com/event/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent &amp; Upcoming Talks</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 20 Jul 2023 13:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu_4bc81f2edf496b34.png</url>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>https://example.com/event/</link>
+    </image>
+    
+    <item>
+      <title>Emotion Detection from EEG using Transfer Learning</title>
+      <link>https://example.com/event/example/</link>
+      <pubDate>Thu, 20 Jul 2023 13:00:00 +0000</pubDate>
+      <guid>https://example.com/event/example/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
