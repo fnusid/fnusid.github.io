@@ -28,7 +28,7 @@ tags:
 featured: true
 
 image:
-  caption: "Image credit: Sona Video"
+  caption: "Image credit: GPT"
   focal_point: ""
   preview_only: false
 ---
