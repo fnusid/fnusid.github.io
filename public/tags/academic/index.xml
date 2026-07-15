@@ -1,26 +1,2 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Academic | Sidharth</title>
-    <link>https://example.com/tags/academic/</link>
-      <atom:link href="https://example.com/tags/academic/index.xml" rel="self" type="application/rss+xml" />
-    <description>Academic</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 17 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>https://example.com/media/icon_hu_4bc81f2edf496b34.png</url>
-      <title>Academic</title>
-      <link>https://example.com/tags/academic/</link>
-    </image>
-    
-    <item>
-      <title>🧠 PainDECOG accepted at AAAI 2025 Workshop on Health Intelligence</title>
-      <link>https://example.com/post/get-started/</link>
-      <pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/get-started/</guid>
-      <description>&lt;p&gt;Excited to share that our paper, Decoding Pain, Statistical Identification of Pain Biomarkers using Statistcal Approaches has been accepted as a poster at the AAAI 2025 Workshop on Health Intelligence. You can give the preprint a read at 
-&lt;/p&gt;
-</description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Academic | Sidharth</title><link>https://example.com/tags/academic/</link><atom:link href="https://example.com/tags/academic/index.xml" rel="self" type="application/rss+xml"/><description>Academic</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 17 Dec 2024 00:00:00 +0000</lastBuildDate><image><url>https://example.com/media/icon_hu_4bc81f2edf496b34.png</url><title>Academic</title><link>https://example.com/tags/academic/</link></image><item><title>🧠 PainDECOG accepted at AAAI 2025 Workshop on Health Intelligence</title><link>https://example.com/post/get-started/</link><pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate><guid>https://example.com/post/get-started/</guid><description>&lt;p&gt;Excited to share that our paper, Decoding Pain, Statistical Identification of Pain Biomarkers using Statistcal Approaches has been accepted as a poster at the AAAI 2025 Workshop on Health Intelligence. You can give the preprint a read at
+&lt;/p&gt;</description></item></channel></rss>

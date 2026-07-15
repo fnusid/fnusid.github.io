@@ -1,26 +1,2 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Milestone | Sidharth</title>
-    <link>https://example.com/tags/milestone/</link>
-      <atom:link href="https://example.com/tags/milestone/index.xml" rel="self" type="application/rss+xml" />
-    <description>Milestone</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 15 Jan 2025 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>https://example.com/media/icon_hu_4bc81f2edf496b34.png</url>
-      <title>Milestone</title>
-      <link>https://example.com/tags/milestone/</link>
-    </image>
-    
-    <item>
-      <title>✅ Got my PhD admit</title>
-      <link>https://example.com/post/project-management/</link>
-      <pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/project-management/</guid>
-      <description>&lt;p&gt;Excited to announce that I will be joining the 
- in the Computer Science and Engineering Department at the University of Michigan, Ann Arbor as a PhD student! Looking forward to this incredible journey of research and discovery. Go Blue! 💙💛&lt;/p&gt;
-</description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Milestone | Sidharth</title><link>https://example.com/tags/milestone/</link><atom:link href="https://example.com/tags/milestone/index.xml" rel="self" type="application/rss+xml"/><description>Milestone</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 15 Jan 2025 00:00:00 +0000</lastBuildDate><image><url>https://example.com/media/icon_hu_4bc81f2edf496b34.png</url><title>Milestone</title><link>https://example.com/tags/milestone/</link></image><item><title>✅ Got my PhD admit</title><link>https://example.com/post/project-management/</link><pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate><guid>https://example.com/post/project-management/</guid><description>&lt;p&gt;Excited to announce that I will be joining the
+in the Computer Science and Engineering Department at the University of Michigan, Ann Arbor as a PhD student! Looking forward to this incredible journey of research and discovery. Go Blue! 💙💛&lt;/p&gt;</description></item></channel></rss>
