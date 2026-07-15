@@ -1,16 +1,16 @@
 ---
-title: Decoding Pain: Statistical Identification of Biomarkers from Electrophysiological Signals
+title: 'Decoding Pain: Statistical Identification of Biomarkers from Electrophysiological Signals'
 
 event: AAAI 2025
 event_url: https://aaai.org/conference/aaai/aaai-25/
 
 location: Philadelphia, USA
 address:
-  street: 
-  city: 
-  region: 
-  postcode: 
-  country: 
+  street: ''
+  city: ''
+  region: ''
+  postcode: ''
+  country: ''
 
 summary: Presenting my master's project at AAAI 2025 W3PHIAI.
 abstract: 'This study presents a systematic machine-learning approach for classifying acute pain from raw electrophysiological signals. We address binary and ternary classification tasks, leveraging Power-In-Band (PIB) and signal coherence as distinguishing features. Our method evaluates the effectiveness of traditional machine learning algorithms on a manually curated electrophysiological dataset obtained from intracranial electroencephalography (iEEG), offering valuable insights into model performance for pain detection. Furthermore, we identify critical electrode pairings associated with acute pain, providing a clearer understanding of the neural markers that differentiate pain states. This work highlights the potential of targeted feature engineering in advancing pain classification, setting the stage for future enhancements in real-time and personalized pain assessment tools. Additionally, these findings have promising applications in neuromodulation and Deep Brain Stimulation (DBS), where adaptive and closed-loop systems could leverage identified pain markers to modulate pain-related brain regions more precisely, offering improved therapeutic options for chronic pain management'
