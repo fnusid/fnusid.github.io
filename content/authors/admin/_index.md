@@ -4,7 +4,7 @@ title: Sidharth (Sid)
 avatar:
   image: avatar.jpg      # already present in the same folder
   shape: circle           # or "square"
-  size: xl                # options: xs, sm, md, lg, xl, or 250px for custom pixel value
+  size: 200px                # options: xs, sm, md, lg, xl, or 250px for custom pixel value
 
 
 # Name pronunciation (optional)
