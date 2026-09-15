@@ -9,6 +9,6 @@ tags:
   - HCI
 ---
 
-Co-deveoloped a system to suppress multiple target sounds of interest from real world data in a real-time system. 
+Co-developed a system to suppress multiple target sounds of interest from real world data in a real-time system. 
 
 <!--more-->

@@ -4,7 +4,9 @@ title: Sidharth (Sid)
 avatar:
   image: avatar.jpg      # already present in the same folder
   shape: circle           # or "square"
-  size: xxl                # options: xs, sm, md, lg, xl, or 250px for custom pixel value
+  # Note: this theme version renders the avatar at a fixed 150x150 regardless
+  # of this field. The larger 220px size actually in use is set in
+  # layouts/partials/blox/resume-biography-3.html + assets/css/custom.css.
 
 
 # Name pronunciation (optional)
@@ -58,7 +60,7 @@ education:
   - area: PhD, Computer Science
     institution: University of Michigan, Ann Arbor
     date_start: 2025-08-25
-    date_end: 2039-05-06
+    date_end: 2030-05-06
     summary: |
       PhD student at [Soundability Lab](https://accessibility.eecs.umich.edu/) advised by [Prof Dhruv Jain](https://web.eecs.umich.edu/~profdj/).
     # button:
