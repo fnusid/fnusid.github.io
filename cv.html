@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+  <title>CV · Sidharth</title>
+  <meta name="description" content="Sidharth, PhD student in Computer Science &amp; Engineering at the University of Michigan (Soundability Lab). Speech &amp; audio AI: target speech extraction, speaker representations, real-time enhancement.">
+  <meta property="og:title" content="Sidharth · Speech &amp; Audio AI">
+  <meta property="og:description" content="Sidharth, PhD student in Computer Science &amp; Engineering at the University of Michigan (Soundability Lab). Speech &amp; audio AI: target speech extraction, speaker representations, real-time enhancement.">
+  <meta property="og:url" content="https://fnusid.github.io/">
+  <meta property="og:type" content="website">
+  <meta property="og:image" content="https://fnusid.github.io/assets/img/profile.jpg">
+  <meta name="theme-color" content="#00274C">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%2300274C'/%3E%3Ctext x='32' y='45' text-anchor='middle' font-family='Helvetica,Arial,sans-serif' font-weight='700' font-size='38' fill='%23FFCB05'%3ES%3C/text%3E%3C/svg%3E">
+  <link rel="stylesheet" href="assets/css/site.css?v=2">
+</head>
+<body data-page="cv">
+<header id="site-header"></header>
+<main class="page-content">
+  <div class="container">
+    <h1 class="page-title">Curriculum Vitae</h1>
+    <div class="btn-row">
+      <a class="btn solid" href="assets/cv/Sidharth_CV.pdf" download="Sidharth_CV.pdf">Download CV (PDF)</a>
+      <a class="btn ghost" href="assets/cv/Sidharth_CV.pdf" target="_blank" rel="noopener">Open in new tab</a>
+    </div>
+    <div id="cv-pages" class="cv-pages" aria-label="CV pages">
+      <p class="loading-placeholder">Loading CV…</p>
+    </div>
+  </div>
+</main>
+<footer id="site-footer"></footer>
+<script src="assets/js/data.js?v=2"></script>
+<script src="assets/js/site.js?v=2"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.worker.min.js"></script>
+<script>
+  /* Draw every CV page as an image, so it works in any browser (no PDF plugin needed). */
+  (async () => {
+    const box = document.getElementById('cv-pages');
+    const fail = () => { box.innerHTML = '<p class="cv-fallback">The CV preview could not load here. Use <a href="assets/cv/Sidharth_CV.pdf" target="_blank" rel="noopener">Open in new tab</a> instead.</p>'; };
+    try {
+      const lib = window.pdfjsLib; if (!lib) return fail();
+      const pdf = await lib.getDocument({ url: 'assets/cv/Sidharth_CV.pdf', isEvalSupported: false }).promise;
+      box.innerHTML = '';
+      const pages = [];
+      for (let n = 1; n <= pdf.numPages; n++) {
+        const page = await pdf.getPage(n);
+        const c = document.createElement('canvas'); c.className = 'cv-page'; c.setAttribute('aria-label', 'CV page ' + n);
+        box.appendChild(c); pages.push({ page, c });
+      }
+      const draw = () => pages.forEach(({ page, c }) => {
+        const w = box.clientWidth, base = page.getViewport({ scale: 1 }), dpr = Math.min(devicePixelRatio || 1, 2);
+        const vp = page.getViewport({ scale: (w / base.width) * dpr });
+        c.width = vp.width; c.height = vp.height; c.style.width = w + 'px'; c.style.height = (vp.height / dpr) + 'px';
+        page.render({ canvasContext: c.getContext('2d'), viewport: vp });
+      });
+      draw();
+      let t; addEventListener('resize', () => { clearTimeout(t); t = setTimeout(draw, 200); });
+    } catch (e) { console.error(e); fail(); }
+  })();
+</script>
+</body>
+</html>

@@ -2,7 +2,16 @@
 
 Personal research site of **Sidharth** — PhD student, Soundability Lab, University of Michigan.
 
-A single self-contained page: everything (styles, scripts, images) lives in `index.html`. The CV is at `uploads/resume.pdf`.
+Plain static HTML/CSS/JS, no build step.
 
-- Edit `index.html` and push to `main`; the workflow in `.github/workflows/deploy.yml` publishes it to GitHub Pages.
-- The previous Hugo Blox site is preserved on the `hugo-archive` branch.
+| File | What it holds |
+| --- | --- |
+| `assets/js/data.js` | **All content**: news, publications, experience, education, talks. Edit this to update the site. |
+| `index.html` | Home: bio, news, selected research, experience |
+| `research.html` | All publications (filterable) and talks |
+| `cv.html` | CV viewer; the PDF is `assets/cv/Sidharth_CV.pdf` |
+| `assets/css/site.css` | Styles; colours are CSS variables at the top |
+
+Add a paper thumbnail by placing an image in `assets/img/thumbs/` and setting `thumb: "assets/img/thumbs/name.png"` on the publication in `data.js`.
+
+Pushing to `main` deploys via `.github/workflows/deploy.yml`.
