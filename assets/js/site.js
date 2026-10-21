@@ -65,6 +65,12 @@
         <div class="pub-venue">${esc(p.venue)}${p.status ? `<span class="status">${esc(p.status)}</span>` : ''}</div>
         ${p.summary ? `<p class="pub-summary">${esc(p.summary)}</p>` : ''}
         ${p.links ? `<div class="pub-links">${Object.entries(p.links).map(([k, v]) => `<a class="chip" href="${v}">${esc(k)}</a>`).join('')}</div>` : ''}
+        ${p.related ? `<div class="pub-related"><span class="rel-label">${esc(p.related.label)}</span>
+          <div class="rel-title"><a href="${Object.values(p.related.links)[0]}">${esc(p.related.title)}</a></div>
+          <div class="pub-authors">${p.related.authors}</div>
+          <div class="pub-venue">${esc(p.related.venue)}</div>
+          <div class="pub-links">${Object.entries(p.related.links).map(([k, v]) => `<a class="chip" href="${v}">${esc(k)}</a>`).join('')}</div>
+        </div>` : ''}
       </div>
     </li>`;
 

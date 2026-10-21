@@ -24,18 +24,17 @@ window.SITE = {
     {
       thumb: "assets/img/thumbs/mixture-embeddings.jpg", year: 2026, area: ["speech"], selected: true,
       title: "Mixture-Derived Speaker Embeddings: Can They Replace Enrollment in Pre-trained Target Speech Extractors?",
-      authors: "<strong>FNU Sidharth</strong>, et al.",
+      authors: "<strong>FNU Sidharth</strong>, Hao-Wen Dong, Dhruv Jain",
       venue: "SANE 2026", status: "Paper coming soon",
-      summary: "Feeds speaker embeddings taken straight from the mixture into a frozen, pre-trained target speech extractor, so no enrollment clip is needed: 10.8 dB SI-SDRi on average vs. 6.8 dB for diarize-then-enroll over 3,000 noisy two-speaker mixtures.",
-      links: { Demo: "https://fnusid.github.io/unmixing-the-crowd-demo/" }
-    },
-    {
-      thumb: "assets/img/thumbs/unmixing.png", year: 2026, area: ["speech"], selected: true,
-      title: "Unmixing the Crowd: Learning Persistent Speaker Representations from Mixture-Derived Multi-Speaker Embeddings",
-      authors: "<strong>FNU Sidharth</strong>, Meysam Asgari, Hao-Wen Dong, Dhruv Jain",
-      venue: "arXiv preprint, 2026",
-      summary: "Learns persistent speaker identities directly from overlapped, noisy multi-talker audio, enabling target speech extraction without an enrollment clip.",
-      links: { arXiv: "https://arxiv.org/abs/2604.03219", Code: "https://github.com/fnusid/wavlm_asp" }
+      summary: "A focused reframing of our Unmixing the Crowd work around one practical question: can speaker embeddings taken straight from the mixture stand in for an enrollment clip in a frozen, pre-trained target speech extractor? Across 3,000 noisy two-speaker mixtures they reach 10.8 dB SI-SDRi on average, compared with 6.8 dB for diarize-then-enroll.",
+      links: { Demo: "https://fnusid.github.io/unmixing-the-crowd-demo/" },
+      related: {
+        label: "Builds on",
+        title: "Unmixing the Crowd: Learning Persistent Speaker Representations from Mixture-Derived Multi-Speaker Embeddings",
+        authors: "<strong>FNU Sidharth</strong>, Meysam Asgari, Hao-Wen Dong, Dhruv Jain",
+        venue: "arXiv preprint, 2026",
+        links: { arXiv: "https://arxiv.org/abs/2604.03219", Code: "https://github.com/fnusid/wavlm_asp" }
+      }
     },
     {
       thumb: "assets/img/thumbs/sona.jpg", year: 2026, area: ["hci", "speech"], selected: true,

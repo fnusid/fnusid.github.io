@@ -180,3 +180,11 @@ hr{border:none;border-top:1px solid var(--border);margin:2.75rem 0}
 .hiring-btn{display:inline-block;font-weight:600;font-size:.86rem;padding:.35rem .95rem;border-radius:999px;background:var(--primary);color:#fff}
 .hiring-btn:hover{background:var(--link-hover);color:#fff;text-decoration:none}
 .hiring-mail{font:13px var(--mono);color:#5C4700;user-select:all}
+
+/* ── related (earlier) paper nested inside a card ── */
+.pub-related{margin-top:1rem;padding:.8rem 1rem .9rem;background:#fff;border:1px solid var(--border);border-left:3px solid var(--maize);border-radius:6px}
+.rel-label{display:inline-block;font-size:.7rem;font-weight:700;letter-spacing:.08em;text-transform:uppercase;color:var(--light);margin-bottom:.2rem}
+.rel-title{font-size:.95rem;font-weight:600;line-height:1.4}
+.rel-title a{color:var(--text)}
+.rel-title a:hover{color:var(--link)}
+.pub-related .pub-links{margin-top:.55rem}
