@@ -62,7 +62,7 @@
       <div>
         <h3 class="pub-title">${p.links && Object.values(p.links)[0] ? `<a href="${Object.values(p.links)[0]}">${esc(p.title)}</a>` : esc(p.title)}</h3>
         <div class="pub-authors">${p.authors}</div>
-        <div class="pub-venue">${esc(p.venue)}</div>
+        <div class="pub-venue">${esc(p.venue)}${p.status ? `<span class="status">${esc(p.status)}</span>` : ''}</div>
         ${p.summary ? `<p class="pub-summary">${esc(p.summary)}</p>` : ''}
         ${p.links ? `<div class="pub-links">${Object.entries(p.links).map(([k, v]) => `<a class="chip" href="${v}">${esc(k)}</a>`).join('')}</div>` : ''}
       </div>

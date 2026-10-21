@@ -8,6 +8,7 @@ window.SITE = {
 
   /* ---- News (newest first). type: paper | work | edu | talk. `html` may contain links. ---- */
   news: [
+    { type: "paper", date: "Oct 2026", html: "Listening demo is up for <a href='https://fnusid.github.io/unmixing-the-crowd-demo/'><em>Mixture-Derived Speaker Embeddings: Can They Replace Enrollment in Pre-trained Target Speech Extractors?</em></a> (SANE 2026). Paper coming soon." },
     { type: "work", date: "Jun 2026", html: "Started a summer research internship at <strong>Bose Research</strong> on open-vocabulary, queryable sound event localization." },
     { type: "paper", date: "Apr 2026", html: "<a href='https://arxiv.org/abs/2604.03219'><em>Unmixing the Crowd</em></a> is out as an arXiv preprint." },
     { type: "paper", date: "Apr 2026", html: "<a href='https://dl.acm.org/doi/10.1145/3772363.3799034'><em>Sona</em></a>, real-time multi-target sound attenuation for noise sensitivity, appears at CHI 2026 Extended Abstracts." },
@@ -20,6 +21,14 @@ window.SITE = {
      area: speech | hci | neuro   selected: shown on the homepage
      thumb: optional image path, e.g. "assets/img/thumbs/unmixing.png" */
   publications: [
+    {
+      thumb: "assets/img/thumbs/mixture-embeddings.jpg", year: 2026, area: ["speech"], selected: true,
+      title: "Mixture-Derived Speaker Embeddings: Can They Replace Enrollment in Pre-trained Target Speech Extractors?",
+      authors: "<strong>FNU Sidharth</strong>, et al.",
+      venue: "SANE 2026", status: "Paper coming soon",
+      summary: "Feeds speaker embeddings taken straight from the mixture into a frozen, pre-trained target speech extractor, so no enrollment clip is needed: 10.8 dB SI-SDRi on average vs. 6.8 dB for diarize-then-enroll over 3,000 noisy two-speaker mixtures.",
+      links: { Demo: "https://fnusid.github.io/unmixing-the-crowd-demo/" }
+    },
     {
       thumb: "assets/img/thumbs/unmixing.png", year: 2026, area: ["speech"], selected: true,
       title: "Unmixing the Crowd: Learning Persistent Speaker Representations from Mixture-Derived Multi-Speaker Embeddings",
