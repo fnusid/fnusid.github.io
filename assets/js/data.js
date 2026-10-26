@@ -6,8 +6,9 @@ window.SITE = {
   name: "Sidharth",
   email: "sidcs@umich.edu",
 
-  /* ---- News (newest first). type: paper | work | edu | talk. `html` may contain links. ---- */
+  /* ---- News (newest first). type: paper | work | edu | talk | travel. `html` may contain links. ---- */
   news: [
+    { type: "travel", date: "Oct 2026", html: "Heading to Boston for <a href='https://dcase.community/workshop2026/'><strong>DCASE 2026</strong></a> (Oct 28–29, Tufts) and <a href='https://www.saneworkshop.org/sane2026/'><strong>SANE 2026</strong></a> (Oct 30, MIT). I'll be presenting our poster <a href='https://fnusid.github.io/unmixing-the-crowd-demo/'><em>Mixture-Derived Speaker Embeddings</em></a> at SANE Poster Session 1 (10:40–12:20, poster AM-35). If you work on speech or audio, I'd love to meet, so come say hi or <a href='mailto:sidcs@umich.edu'>drop me a note</a>!" },
     { type: "paper", date: "Oct 2026", html: "Listening demo is up for <a href='https://fnusid.github.io/unmixing-the-crowd-demo/'><em>Mixture-Derived Speaker Embeddings: Can They Replace Enrollment in Pre-trained Target Speech Extractors?</em></a> (SANE 2026). Paper coming soon." },
     { type: "work", date: "Jun 2026", html: "Started a summer research internship at <strong>Bose Research</strong> on open-vocabulary, queryable sound event localization." },
     { type: "paper", date: "Apr 2026", html: "<a href='https://arxiv.org/abs/2604.03219'><em>Unmixing the Crowd</em></a> is out as an arXiv preprint." },
